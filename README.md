@@ -1,5 +1,5 @@
-# Agricultural Simulation
-This project aimed to develop a data-driven system that optimizes crop rotation planning and resource allocation. 
+# Probabilistic Classification with Cleveland Heart Disease Dataset
+This project aimed to predict the likelihood of heart disease using probabilistic classifiers and statistical inference techniques. 
 ## Files Overview
 
 - **Python files (`.py`)**: These contain the core functions and algorithms for data processing and analysis.
